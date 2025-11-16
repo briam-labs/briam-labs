@@ -1,16 +1,82 @@
-## Hi there 👋
+## 🧪 **Briam Lab's** 
 
-<!--
-**briam-labs/briam-labs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Meu nome é **Briam Ferreira** e este é o meu espaço de experimentação, o **Briam Lab's**.
 
-Here are some ideas to get you started:
+### **Sobre Mim e a Jornada**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou um entusiasta da tecnologia com uma trajetória profissional diversificada:
+
+* Minha experiência inicial foi construída nas áreas industrial e automotiva.
+* Em seguida, desenvolvi habilidades no setor de logística.
+* Atualmente, atuo na área de farmácia para o setor de home care.
+
+Essa variedade de experiências me oferece uma perspectiva única para abordar problemas e buscar soluções.
+
+### **O Propósito deste "Lab"**
+
+O **Briam Lab's** é, essencialmente, o meu campo de testes e aprendizado.
+
+* Sigo me dedicando aos estudos em tecnologia e outros segmentos, sempre buscando evoluir e me manter atualizado.
+* Este repositório é o ambiente onde coloco a mão na massa, aplicando o conhecimento adquirido em pequenos projetos e protótipos.
+
+---
+### Conecte-se
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/briam-ferreira/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="30" alt="linkedin logo"  />
+  </a>
+</div>
+
+---
+
+### Linguagens e Tecnologias que estou estudando
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<br>
+
+---
+
+<p>
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="120" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=briam-labs&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
