@@ -66,4 +66,13 @@ O **Briam Lab's** é, essencialmente, o meu campo de testes e aprendizado.
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="WordPress" 
+    title="WordPress"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg"
+/>
+
 <br>
