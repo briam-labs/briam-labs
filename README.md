@@ -20,15 +20,6 @@ O **Briam Lab's** é, essencialmente, o meu campo de testes e aprendizado.
 * Este repositório é o ambiente onde coloco a mão na massa, aplicando o conhecimento adquirido em pequenos projetos e protótipos.
 
 ---
-### Conecte-se
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/briam-ferreira/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="30" alt="linkedin logo"  />
-  </a>
-</div>
-
----
 
 ### Linguagens e Tecnologias que estou estudando
 
@@ -66,17 +57,13 @@ O **Briam Lab's** é, essencialmente, o meu campo de testes e aprendizado.
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
-<br>
-
----
-
-<p>
-
 <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="120" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=briam-labs&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+    align="left" 
+    alt="Figma" 
+    title="Figma"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
+/>
 
-</p>
+<br>
